@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 815 filtered ascend = 2 plain-ascend = 0 cost=815 energy=0.0kwh time=1m 5s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 0.18.1">
+ <trk>
+  <name>Kristianstad Güterkurve</name>
+  <trkseg>
+   <trkpt lat="56.039163" lon="14.151777"><ele>0</ele></trkpt>
+   <trkpt lat="56.039159" lon="14.151766"><ele>0</ele></trkpt>
+   <trkpt lat="56.038939" lon="14.151218"><ele>1</ele></trkpt>
+   <trkpt lat="56.038743" lon="14.150662"><ele>2</ele></trkpt>
+   <trkpt lat="56.038558" lon="14.150002"><ele>2.75</ele></trkpt>
+   <trkpt lat="56.038478" lon="14.149724"><ele>2.5</ele></trkpt>
+   <trkpt lat="56.038423" lon="14.149516"><ele>2.25</ele></trkpt>
+   <trkpt lat="56.038365" lon="14.149243"><ele>2</ele></trkpt>
+   <trkpt lat="56.038308" lon="14.148917"><ele>1.5</ele></trkpt>
+   <trkpt lat="56.038259" lon="14.148515"><ele>1</ele></trkpt>
+   <trkpt lat="56.038228" lon="14.148112"><ele>1</ele></trkpt>
+   <trkpt lat="56.038219" lon="14.147751"><ele>1</ele></trkpt>
+   <trkpt lat="56.038218" lon="14.147509"><ele>1</ele></trkpt>
+   <trkpt lat="56.038231" lon="14.147184"><ele>1</ele></trkpt>
+   <trkpt lat="56.038249" lon="14.146929"><ele>1</ele></trkpt>
+   <trkpt lat="56.038277" lon="14.146644"><ele>1</ele></trkpt>
+   <trkpt lat="56.038315" lon="14.146366"><ele>1</ele></trkpt>
+   <trkpt lat="56.038422" lon="14.145805"><ele>0.75</ele></trkpt>
+   <trkpt lat="56.038453" lon="14.145686"><ele>0.5</ele></trkpt>
+   <trkpt lat="56.038521" lon="14.145432"><ele>0.5</ele></trkpt>
+   <trkpt lat="56.038597" lon="14.145184"><ele>0.25</ele></trkpt>
+   <trkpt lat="56.038696" lon="14.144893"><ele>0</ele></trkpt>
+   <trkpt lat="56.038849" lon="14.14454"><ele>-0.25</ele></trkpt>
+   <trkpt lat="56.038995" lon="14.144243"><ele>-0.75</ele></trkpt>
+   <trkpt lat="56.039375" lon="14.143575"><ele>-1</ele></trkpt>
+   <trkpt lat="56.039689" lon="14.142965"><ele>-1</ele></trkpt>
+   <trkpt lat="56.039924" lon="14.14248"><ele>-0.25</ele></trkpt>
+   <trkpt lat="56.04016" lon="14.141955"><ele>0</ele></trkpt>
+   <trkpt lat="56.040368" lon="14.14144"><ele>-0.5</ele></trkpt>
+   <trkpt lat="56.040464" lon="14.141221"><ele>-0.5</ele></trkpt>
+   <trkpt lat="56.040613" lon="14.140827"><ele>-0.5</ele></trkpt>
+   <trkpt lat="56.040695" lon="14.140596"><ele>0</ele></trkpt>
+  </trkseg>
+ </trk>
+</gpx>
