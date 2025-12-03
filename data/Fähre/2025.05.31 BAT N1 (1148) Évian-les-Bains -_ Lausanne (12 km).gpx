@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- track-length = 11957 filtered ascend = 0 plain-ascend = -3 cost=70142 energy=0.1kwh time=19m 26.898928877265234s -->
+<gpx 
+ xmlns="http://www.topografix.com/GPX/1/1" 
+ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+ xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" 
+ version="1.1" 
+ creator="BRouter-Web 99.71.0">
+ <trk>
+  <name>2025.05.31 BAT N1 (1148) Évian-les-Bains -&gt; Lausanne (12 km)</name>
+  <link href="https://brouter.damsy.net/latest/#map=13/46.3983/6.6662/osm-mapnik-german_style&amp;lonlats=6.594736,46.401712;6.594822,46.403748;6.626583,46.505112&amp;straight=1">
+   <text>BRouter-Web</text>
+  </link>
+  <trkseg>
+   <trkpt lat="46.401712" lon="6.594735"><ele>373.75</ele></trkpt>
+   <trkpt lat="46.402075" lon="6.596229"><ele>373.75</ele></trkpt>
+   <trkpt lat="46.402316" lon="6.59678"><ele>372</ele></trkpt>
+   <trkpt lat="46.402848" lon="6.596957"><ele>370</ele></trkpt>
+   <trkpt lat="46.403317" lon="6.596042"><ele>370</ele></trkpt>
+   <trkpt lat="46.403732" lon="6.594817"><ele>370</ele></trkpt>
+   <trkpt lat="46.50511176536633" lon="6.6265831142663965"/>
+  </trkseg>
+ </trk>
+</gpx>
