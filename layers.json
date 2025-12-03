@@ -1,0 +1,33 @@
+{
+    "name": "Julians Streckenkarte",
+    "layers": {
+        "Eisenbahn": {
+            "color": "DodgerBlue",
+            "humanname": "Eisenbahn",
+            "width": 2
+        },
+        "UBahn": {
+            "color": "DarkBlue",
+            "humanname": "U-Bahn",
+            "width": 2
+        },
+        "F\u00e4hre": {
+            "color": "Yellow",
+            "humanname": "F\u00e4hre",
+            "width": 2
+        },
+        "Tram": {
+            "color": "Red",
+            "humanname": "Tram",
+            "width": 2
+        }
+    },
+    "tilelayer": {
+        "tms": false,
+        "name": "OSM Carto DE",
+        "maxZoom": 22,
+        "minZoom": 0,
+        "attribution": "Tiles &copy; <a href=\"https://openstreetmap.de/germanstyle/\" >OSM Carto DE</a>",
+        "url_template": "https://{s}.tile.openstreetmap.de/{z}/{x}/{y}.png"
+    }
+}
